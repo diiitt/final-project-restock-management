@@ -34,8 +34,4 @@ Berikut versi ringkasnya:
 
 ---
 
-## 🏠 Home Page
-![Home Page]()
 
-## 🛠️ Admin Dashboard
-![Demo]()
