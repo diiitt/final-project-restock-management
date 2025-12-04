@@ -30,6 +30,38 @@ Link PDF:
 ## 🌐 Link Deployment
 [![Link Deployment](https://img.shields.io/badge/Link_Deployment-View-green?style=for-the-badge)](https://restokmanagement.gamer.gd/login.php) 
 
+## Fitur Utama
+
+### Autentikasi & Keamanan
+- Login/Logout sistem
+- Level akses (Admin/User)
+- Password hashing dengan bcrypt
+- Session management
+
+### Manajemen Barang
+- CRUD data barang
+- Kategori barang
+- Supplier management
+- Stok minimum notifikasi
+- Generate kode barang otomatis
+
+### Transaksi
+- Barang masuk (restock)
+- Barang keluar (penjualan)
+- Riwayat transaksi
+- Validasi stok saat pengeluaran
+
+### Laporan & Dashboard
+- Dashboard statistik real-time
+- Grafik stok barang
+- Grafik transaksi bulanan
+- Laporan stok barang
+- Notifikasi stok menipis
+
+### Tools Tambahan
+- Kalkulator pintar
+- Format Rupiah otomatis
+
 ---
 
 # 🏗 2. Arsitektur Singkat Sistem
