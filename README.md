@@ -28,7 +28,7 @@ Link PDF:
 - Test Case UAT → `documents/TestCase_UAT.pdf`   
 
 ## 🌐 Link Deployment
-[![Link Deployment](https://img.shields.io/badge/Live_Demo-View-green?style=for-the-badge)](https://restokmanagement.gamer.gd/login.php) 
+[![Link Deployment](https://img.shields.io/badge/Link_Deployment-View-green?style=for-the-badge)](https://restokmanagement.gamer.gd/login.php) 
 
 ---
 
