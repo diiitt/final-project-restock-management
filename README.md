@@ -69,5 +69,6 @@ Diagram arsitektur lengkap tersedia pada dokumen yang kami buat.
 Berikut versi ringkasnya:
 
 ---
-
+© 2025 Kelompok 1 - Restock Management System
+Rekayasa Perangkat Lunak - Universitas Islam Negeri Sulthan Thaha Saifuddin Jambi
 
