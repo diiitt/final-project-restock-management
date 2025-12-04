@@ -11,6 +11,7 @@
 
 ## Deskripsi Singkat Proyek
 Restock Management System adalah aplikasi berbasis web untuk mengelola stok barang, transaksi masuk/keluar, supplier, dan laporan inventory. Sistem ini membantu UMKM, toko retail, atau gudang dalam mengelola stok barang secara digital dan real-time.
+
 ---
 
 # 1. Dokumen Final (PDF)
@@ -25,6 +26,9 @@ Link PDF:
 - SRS Final → `documents/SRS_Final.pdf`  
 - Design UML → `documents/UML_Design.pdf`  
 - Test Case UAT → `documents/TestCase_UAT.pdf`   
+
+## 🌐 Link Deployment
+[![Link Deployment](https://img.shields.io/badge/Live_Demo-View-green?style=for-the-badge)](https://restokmanagement.gamer.gd/login.php) 
 
 ---
 
